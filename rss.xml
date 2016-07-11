@@ -1,15 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[a dabbler in books&nbsp;]]></title>
-        <description><![CDATA[a dabbler in books&nbsp;]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[writing & interests]]></title>
+        <description><![CDATA[writing & interests]]></description>
+        <link>https://thegrid.ai/a-dabbler-in-books/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 11 Jul 2016 17:06:04 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 11 Jul 2016 17:33:49 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/a-dabbler-in-books/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Patrick McGee of Financial Times - Journalist on Muck Rack]]></title>
+            <description><![CDATA[<article><h1>Patrick McGee of Financial Times - Journalist on Muck Rack</h1><p>Frankfurt Correspondent, @FT. Former Lead Writer of fastFT in Hong Kong. @WSJ alum, New York. One of those Canadians with a maple leaf on backpack. VW sets fresh record with historic car buy back - FT.com More Articles →</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/e1368a845abade9f23945a51133fbc88/noop.jpg?input=https%3A%2F%2Fs3.amazonaws.com%2Fmedia.muckrack.com%2Fportfolio%2Fimages%2F1263498%2F121783_ef142a9c-4796-49d1-bed1-65a570498a48.img.300x300_q85_autocrop.jpg"></article>]]></description>
+            <link>https://muckrack.com/patrick-mcgee</link>
+            <guid isPermaLink="false">f25e1f28-d13c-4c91-9188-cff8191d0b12</guid>
+            <pubDate>Mon, 11 Jul 2016 17:33:47 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/4308a63d-0aa1-48ab-859d-08593ea2c24f.jpg">]]></description>
-            <link>undefinedd4dde0fe-224f-4ae4-a5d6-da9bc310021c/index.html</link>
+            <link>https://thegrid.ai/a-dabbler-in-books/d4dde0fe-224f-4ae4-a5d6-da9bc310021c/index.html</link>
             <guid isPermaLink="false">d4dde0fe-224f-4ae4-a5d6-da9bc310021c</guid>
             <pubDate>Mon, 11 Jul 2016 17:05:24 GMT</pubDate>
         </item>
