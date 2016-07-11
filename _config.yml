@@ -1,15 +1,27 @@
-layout_spectrum: 0.43168516876176
-typography_spectrum: 0.3032866232097149
-color:
-  brandStrength: 0.3237257858272642
-  lightness: 0.6686755581758916
-  saturation: 0.22095506195910275
-  rhythmicContrast: 0.863161354791373
-  brandColors:
-    - '#E1E6FA'
-    - '#C4D7ED'
-    - '#ABC8E2'
-    - '#375D81'
-    - '#183152'
-name: a dabbler in books&nbsp;
 title: writing & interests
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+color:
+  saturation: 0.2209550619591027
+  brandStrength: 0.4787234
+  lightness: 0.6686755581758916
+  brandColors:
+    - '#E7E7DB'
+    - '#1D1D1B'
+    - '#D0583E'
+    - '#264C7D'
+    - '#7B3929'
+  rhythmicContrast: 0.863161354791373
+typography_spectrum: 0.8595745
+layout_spectrum: 0.2531915
+name: a dabbler in books&nbsp;
